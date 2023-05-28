@@ -9,4 +9,4 @@
 
 <h2 align="center"> 🎓The skills and tools I use: </h2>
 
-https://icons8.com/icon/l75OEUJkPAk4/python
+![django (1)](https://github.com/Mohammad222PR/Mohammad222PR/assets/116789737/412262ec-242d-42b6-8f01-28983e5b8b87)
