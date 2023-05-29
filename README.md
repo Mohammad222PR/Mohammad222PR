@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="center">Technologies That I Use :</h4>
+
 <h4 align="center">🎓The skills and tools I use:</h4>
 
 ###
