@@ -18,7 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="50" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="50" alt="bootstrap 
   logo"  />
- <a href="https://iconscout.com/icons/django" target="_blank">Free Django Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">IconScout</a>
+
+  <img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.svg" height="40" width="50" alt="django"> 
 
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="50" alt="javascript logo"  />
