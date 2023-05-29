@@ -53,7 +53,7 @@
 
 <h5 align="left"> 👨‍🎓 Java Scrip : 30% </h5> <img src="https://github.com/Mohammad222PR/Mohammad222PR/blob/main/image/bar.png?raw=true" height="16px" width="150px" >
 
-<h5 align="left"> 👨‍🎓 👨‍🎓 Boot strap: 60%
+<h5 align="left"> 👨‍🎓  Boot strap: 60%
 </h5> <img src="https://github.com/Mohammad222PR/Mohammad222PR/blob/main/image/bar.png?raw=true" height="16px" width="300px" >
 
 
