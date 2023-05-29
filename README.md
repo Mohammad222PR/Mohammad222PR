@@ -1,6 +1,6 @@
 @@ -1,46 +1,27 @@
 <h2 align="center">Hi ! I'm Amirmasoud 👋<br>Full Stack Web Developer</h2>
-<h2 align="center">Hi ! I'm  Mohammad hossein 👋<br>Back-end developer</h2>
+
 
 ###
 
