@@ -4,7 +4,7 @@
 
 <h2 align="center"> Hello 👋 I am Techno Code 🧑‍💻 </h2>
 
-<P align="center"> I am python programer 🐍 I like to work for myself 🎯 And I like programming very much 😄 </p> 
+<P align="center-left"> I am python programer 🐍 I like to work for myself 🎯 And I like programming very much 😄 </p> 
 
 
 <h2 align="center"> 🎓The skills and tools I use: </h2>
