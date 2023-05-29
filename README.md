@@ -9,7 +9,7 @@
 ###
 
 
-<h4 align="center">🎓The skills and tools I use:</h4>
+<h4 align="center">🎓The skills and tools I use</h4>
 
 ###
 
@@ -43,14 +43,23 @@
 <p align="left"></p>
 
 ###
+<h4 align="center">👨‍💻I am currently learning this</h4>
+<h5 align="left"> 👨‍🎓 Django : 80% </h5> <img src="https://github.com/Mohammad222PR/Mohammad222PR/blob/main/image/bar.png?raw=true" height="16px" width="400px" >
 
-<div align="center">
-  <a href="https://www.instagram.com/ahora_22_w/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
+<h5 align="left"> 👨‍🎓 Python : 70%
+ </h5> <img src="https://github.com/Mohammad222PR/Mohammad222PR/blob/main/image/bar.png?raw=true" height="16px" width="350px" >
+
+<h5 align="left"> 👨‍🎓 html : 20%
+</h5> <img src="https://github.com/Mohammad222PR/Mohammad222PR/blob/main/image/bar.png?raw=true" height="16px" width="100px" >
+
+<h5 align="left"> 👨‍🎓 Css : 20%</h5> <img src="https://github.com/Mohammad222PR/Mohammad222PR/blob/main/image/bar.png?raw=true" height="16px" width="100px" >
+
+<h5 align="left"> 👨‍🎓 Java Scrip : 30% </h5> <img src="https://github.com/Mohammad222PR/Mohammad222PR/blob/main/image/bar.png?raw=true" height="16px" width="150px" >
+
+<h5 align="left"> 👨‍🎓 👨‍🎓 Boot strap: 60%
+</h5> <img src="https://github.com/Mohammad222PR/Mohammad222PR/blob/main/image/bar.png?raw=true" height="16px" width="300px" >
+
+
 
   <a href="mailto:mohammades13851@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
