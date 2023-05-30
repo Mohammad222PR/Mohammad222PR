@@ -53,7 +53,7 @@
 
 <h5 align="left"> 👨‍🎓 Java Scrip : 30% </h5> <img src="https://github.com/Mohammad222PR/Mohammad222PR/blob/main/image/bar.png?raw=true" height="16px" width="150px" >
 
-<h5 align="left"> 👨‍🎓  Boot strap: 60%
+<h5 align="left"> 👨‍🎓 👨‍🎓 Boot strap: 60%
 </h5> <img src="https://github.com/Mohammad222PR/Mohammad222PR/blob/main/image/bar.png?raw=true" height="16px" width="300px" >
 
 
@@ -61,10 +61,6 @@
   <a href="mailto:mohammades13851@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  
-
-</div> 
-
   <a href="mailto:codingwithenjoy@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
@@ -72,9 +68,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
   </a>
 </div>
-
-  </a>
-
 
 ###
 
