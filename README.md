@@ -69,6 +69,12 @@
   </a>
 </div>
 
+  </a>
+  <a href="https://www.linkedin.com/in/techno-code-30a076269/" target="_blank">
+    <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg](https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BqhXWKZ%2BvQFW79j9EPQhL9w%3D%3D)" width="52" height="40" alt="codepen logo"  />
+  </a>
+</div>
+
 ###
 
 
