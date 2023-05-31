@@ -61,11 +61,9 @@
   <a href="mailto:mohammades13851@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-    <a href="mailto:mohammades13851@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg](https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+
   
-  <a href="mailto:codingwithenjoy@outlook.com" target="_blank">
+  <a href=#" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
   <a href="#" target="_blank">
