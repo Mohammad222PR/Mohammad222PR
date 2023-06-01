@@ -3,6 +3,7 @@
 ###
 
 <img align="center" src="https://user-images.githubusercontent.com/112483091/187425702-72de783a-c79b-4c42-949b-46f78778d95a.svg" alt="just for fun">
+
 ###
 
 <h4 align="center">🎓The skills and tools I use:</h4>
@@ -53,7 +54,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohammad222PR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="161" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammad222PR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=github_dark&hide_border=true&order=2" height="86" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammad222PR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="86" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Mohammad222PR&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=0&order=3" height="151" alt="streak graph"  />
 </div>
 
