@@ -1,9 +1,9 @@
 <h3 align="left">Hi 👋! My name is Mohammad and I'm a Back-End Developer</h3>
 
 ###
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Mohammad222PR/Mohammad222PR/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
