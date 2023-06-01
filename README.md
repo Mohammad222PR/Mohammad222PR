@@ -1,16 +1,8 @@
 <h2 align="left">Hi 👋! My name is Mohammad and I'm a Back-End Developer from Iran</h2>
 
-###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Mohammad222PR/Mohammad222PR/output/snake.svg" alt="Snake animation" />
 
-###
-
-<p align="center">🎓The skills and tools I use</p>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
