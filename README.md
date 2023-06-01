@@ -1,6 +1,7 @@
 <p align="center">Hi 👋! My name is Mohammad and I'm a Back-End Developer</p>
 
 ###
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Mohammad222PR/Mohammad222PR/output/snake.svg" alt="Snake animation" />
 
@@ -69,6 +70,9 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  <a href="https://stackoverflow.com/users/20475914/techno-code" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  </a>
 </div>
 
 ###
