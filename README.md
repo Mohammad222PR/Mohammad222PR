@@ -56,11 +56,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohammad222&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="143" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammad222&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=gotham&hide_border=false&custom_title=My Skills" height="116" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammad222&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gotham&hide_border=false&custom_title=My Skills" height="116" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Mohammad222&locale=en&mode=weekly&theme=gotham&hide_border=false&border_radius=12" height="145" alt="streak graph"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/techno-code-30a076269/" target="_blank">
