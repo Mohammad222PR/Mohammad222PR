@@ -1,12 +1,7 @@
 <h3 align="left">Hi 👋! My name is Mohammad and I'm a Back-End Developer</h3>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<img align="center" src="https://user-images.githubusercontent.com/112483091/187425702-72de783a-c79b-4c42-949b-46f78778d95a.svg" alt="just for fun">
 
 ###
 
