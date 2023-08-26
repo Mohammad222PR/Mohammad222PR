@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Mohammad and I'm a Back-End Developer</h3>
+<h3 align="center">Hi 👋! My name is Mohammad and I'm a Back-End Developer</h3>
 
 ###
 
@@ -92,5 +92,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
   </a>
 </div>
+
+###
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Animation" />
 
 ###
