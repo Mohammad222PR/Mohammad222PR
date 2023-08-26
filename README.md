@@ -1,7 +1,8 @@
-<h3 align="center">Hi 👋! My name is Mohammad and I'm a Back-End Developer</h3>
+<h3 align="center">Hi 👋! My name is Mohammad and I'm <br> a Back-End Developer</h3>
 
 ###
 
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Animation" />
 
 
 ###
@@ -94,6 +95,4 @@
 </div>
 
 ###
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Animation" />
 
-###
