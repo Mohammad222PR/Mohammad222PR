@@ -80,8 +80,7 @@
 ###
 <p align="center">My Trophy</p>
 <hr>
-https://github-profile-trophy.vercel.app/?Mohammad222PR
-=ryo-ma&theme=darkhub
+[![trophy](https://github-profile-trophy.vercel.app/?Mohammad222PR=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
 
