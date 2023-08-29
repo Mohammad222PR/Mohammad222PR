@@ -94,9 +94,7 @@
   </a>
   <br>
   <p><a href="https://masihdev.ir/donate" target="_blank"> <img align="left" src="[https://cdn.buymeacoffee.com](https://coffeebede.com/mohammadeslami)/buttons/v2/default-yellow.png" height="50" width="160" alt="Thanks for your Support &lt;3"></a></p>
-<br>
-![trophy](https://github-profile-trophy.vercel.app/?username=Mohammad222PR
-&theme=tokyonight)
+
 
 
 </div>
