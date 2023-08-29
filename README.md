@@ -78,11 +78,6 @@
   <img src="https://streak-stats.demolab.com?user=Mohammad222PR&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
 ###
-<p align="center">My Trophy</p>
-<hr>
-[![trophy](https://github-profile-trophy.vercel.app/?Mohammad222PR=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/techno-code-30a076269/" target="_blank">
