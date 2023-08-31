@@ -78,7 +78,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammad222PR&locale=en&hide_title=false&layout=compact&card_width=338&langs_count=50&theme=github_dark&hide_border=true&order=2" height="168" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Mohammad222PR&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/techno-code-30a076269/" target="_blank">
@@ -95,7 +94,7 @@
   
   <hr>
   <p><a href="https://masihdev.ir/donate" target="_blank"> <img align="left" src="[https://cdn.buymeacoffee.com](https://coffeebede.com/mohammadeslami)/buttons/v2/default-yellow.png" height="50" width="160" alt="Thanks for your Support &lt;3"></a></p>
-###
+
 
 
 </div>
