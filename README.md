@@ -5,10 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mohammad222PR&theme=tokyonight" alt="Mohammad222PR" /></a> </p>
 
-- 🔭 about me **I have been a back-end developer with Django since 2022. I have gained a lot of experience and had fun with many challenges. I was born in 2006 in Iran and the city of Tehran. I am very interested in synthetics and I am researching about them.**
+- 🔭 I’m currently working on  **software engineering.**
 - 👯 I’m looking to collaborate on [Upwork as freelancer](www.upwork.com)
-- 🤝 I’m looking for help with **good team**
-- 🌱 I’m currently learning **Django, Node.js, DRF**
+- 🌱 I’m currently learning **Django, Node.js, DRF, AI**
 - 💬 Ask me about **Django, DRF, python**
 - 📫 How to reach me **mohammades13851@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/Mohammad222PR**
