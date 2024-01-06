@@ -3,11 +3,11 @@
 <h3 align="center">My details</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohammad222PR&label=Profile%20views&color=0e75b6&style=flat" alt="Mohammad222PR" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mohammad222PR&theme=discord" alt="Mohammad222PR" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mohammad222PR&theme=tokyonight" alt="Mohammad222PR" /></a> </p>
 
-- 🔭 I’m currently working on **technocode**
-- 👯 I’m looking to collaborate on **technocode**
-- 🤝 I’m looking for help with **technocode**
+- 🔭 about me **I have been a back-end developer with Django since 2022. I have gained a lot of experience and had fun with many challenges. I was born in 2006 in Iran and the city of Tehran. I am very interested in synthetics and I am researching about them.**
+- 👯 I’m looking to collaborate on [Upwork as freelancer](www.upwork.com)
+- 🤝 I’m looking for help with **good team**
 - 🌱 I’m currently learning **Django, Node.js, DRF**
 - 💬 Ask me about **Django, DRF, python**
 - 📫 How to reach me **mohammades13851@gmail.com**
@@ -51,7 +51,5 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad222PR&theme=tokyonight" alt="Mohammad222PR" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad222PR&theme=default"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
