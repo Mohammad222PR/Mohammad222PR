@@ -7,8 +7,8 @@
 
 - 🔭 I’m currently working on  **software engineering.**
 - 👯 I’m looking to collaborate on [Upwork as freelancer](www.upwork.com)
-- 🌱 I’m currently learning **Django, Node.js, DRF, AI**
-- 💬 Ask me about **Django, DRF, python**
+- 🌱 I’m currently learning **Django, FastApi, DRF, AI**
+- 💬 Ask me about **Django, DRF, Python**
 - 📫 How to reach me **mohammades13851@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/Mohammad222PR**
 - 📄 Know about my  [experiences](https://mohammadhossein.liara.run/#home)
