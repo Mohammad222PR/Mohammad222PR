@@ -52,7 +52,7 @@ Let’s turn ideas into reality! 😊
 
 ### 🛠 **Languages and Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,mysql,docker,git,vscode,rabbitmq" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,mysql,docker,git,vscode,rabbitmq" alt="Skills" />
 </p>
 
 ---
