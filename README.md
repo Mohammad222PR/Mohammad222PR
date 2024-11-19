@@ -65,5 +65,9 @@ Let’s turn ideas into reality! 😊
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohammad222PR&show_icons=true&locale=en&theme=tokyonight" alt="Mohammad222PR" /></p>
 
+<div align="left">
+  
+[![](https://visitcount.itsvg.in/api?id=Mohammad222PR&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
+</div>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
