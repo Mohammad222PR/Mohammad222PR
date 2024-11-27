@@ -26,7 +26,7 @@ I've built various projects, from **OTP authentication systems** to **appointmen
 ### 🌟 Highlights  
 - Founder of **NinjaLearn**, dedicated to empowering developers with practical skills.  
 - Creator of Python packages like **Pagify** for seamless pagination.  
-- Currently exploring **Node.js**, **microservices**, and **AI** to expand my expertise.  
+- Currently exploring **fastapi**, **microservices**, and **AI** to expand my expertise.  
 
 ---
 
