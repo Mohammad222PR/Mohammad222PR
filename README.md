@@ -6,7 +6,7 @@
 
 <br>
 
-Hello, I'm **Mohammad**, a passionate **Back-End Developer** with over two years of experience in designing and developing web applications. I'm also the **founder of NinjaLearn**, where I share knowledge and help developers grow.  
+Hello, I'm **Mohammad**, a passionate **Back-End Developer** with over **+4 years** of experience in designing and developing web applications. I'm also the **founder of NinjaLearn**, where I share knowledge and help developers grow.  
 
 My focus is on crafting **scalable and efficient back-end solutions** using modern technologies. I thrive on challenges, and coding is more than just a profession—it's my true passion.  
 
@@ -24,8 +24,8 @@ I've built various projects, from **OTP authentication systems** to **appointmen
 ---
 
 ### 🌟 Highlights  
-- Founder of **NinjaLearn**, dedicated to empowering developers with practical skills.  
-- Creator of Python packages like **Pagify** for seamless pagination.  
+- Founder of **NinjaLearn** and **Diramid**.  
+- Creator of Python packages like **Pagify**, **Zibal-payment** and **hey403**.  
 - Currently exploring **microservices**, and **AI** to expand my expertise.  
 
 ---
