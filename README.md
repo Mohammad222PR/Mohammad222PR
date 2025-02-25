@@ -37,7 +37,8 @@ Let’s turn ideas into reality! 😊
 - 🚀 **Dreaming Big**: Passionate about launching my own tech business to create innovative and impactful solutions.  
 - 🤝 **Looking to Collaborate**: Open to connecting with like-minded professionals who share a vision for innovation and growth.  
 - 💬 **Let’s Talk Tech**: Ask me anything about Python, Django, REST frameworks, or optimizing back-end systems.  
-- 📫 **Get in Touch**: Reach out via email at **mohammades13851@gmail.com**—I’d love to connect!  
+- 📫 **Get in Touch**: Reach out via email at **mohammades13851@gmail.com**—I’d love to connect!
+- 📄 **My CVs**: [Click me](https://rxresu.me/mohammad222pr/backend-developer)
 ---
 
 ### 🌐 **Connect With Me**
