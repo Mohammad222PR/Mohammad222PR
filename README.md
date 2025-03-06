@@ -8,9 +8,7 @@
 <h3 align="center">Back-End Developer | Python Enthusiast | Founder</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mohammad222PR&theme=tokyonight&margin-w=15" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohammad222PR&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
