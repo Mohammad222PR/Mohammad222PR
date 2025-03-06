@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 Hey! I’m **Mohammad**, a **Back-End Developer** with over **4+ years** of experience crafting scalable and efficient web solutions. I’m passionate about coding, solving real-world problems, and building tools that make a difference.  
 
-- **Founder**: I created **[NinjaLearn](https://your-ninjalearn-link)** and **[Diramid](https://your-diramid-link)** to share knowledge and empower developers.  
+- **Founder**: I created **[NinjaLearn](https://github.com/Ninjalearn)** and **[Diramid](https://github.com/Diramid)** to share knowledge and empower developers.  
 - **Creator**: Built Python packages like **[Pagify](https://pypi.org/project/pagify/)**, **[Zibal-payment](https://pypi.org/project/zibal-payment/)**, and **[Hey403](https://pypi.org/project/hey403/)**.  
 - **Tech Lover**: I thrive on Python, Django, and exploring new horizons like microservices and AI.
 
