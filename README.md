@@ -63,8 +63,9 @@ Currently, I’m working on scalable APIs, diving deeper into **FastAPI**, and d
 ## 💡 Projects & Contributions
 - **[Hey403](https://github.com/Diramid/hey-403-cli)**: A CLI tool for DNS accessibility testing.  
 - **[Pagify](https://pypi.org/project/pagify/)**: A lightweight pagination library for Python.  
-- **[Zibal-payment](https://pypi.org/project/zibal-payment/)**: Payment gateway integration for Zibal.  
-- **NinjaLearn**: A platform to teach and inspire developers (link coming soon!).
+- **[Zibal-payment](https://pypi.org/project/zibal-payment/)**: Payment gateway integration for Zibal.
+- **[FastAPI](https://github.com/fastapi/fastapi)**: Translating FastAPI documentation into Persian (Farsi)
+- **[NinjaLearn](https://github.com/Ninjalearn)**: A platform to teach and inspire developers (link coming soon!).
 
 ---
 
