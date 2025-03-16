@@ -53,6 +53,8 @@ Currently, I’m working on scalable APIs, diving deeper into **FastAPI**, and d
   <a href="mailto:mohammades13851@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://leetcode.com/Mohammad222PR/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
   <a href="https://stackoverflow.com/users/techno-code"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"></a>
+  <a href="https://medium.com/@mohammades13851"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://dev.to/mohammad222pr"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to"></a>
 </p>
 
 - **Email**: [mohammades13851@gmail.com](mailto:mohammades13851@gmail.com)  
