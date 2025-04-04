@@ -86,7 +86,6 @@ If you like what I do, consider buying me a coffee!
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
   </a>
 </p>
-
 ---
 
 <p align="center">
