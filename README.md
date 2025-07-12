@@ -26,7 +26,20 @@ Currently, I’m working on scalable APIs, diving deeper into **FastAPI**, and d
 
 ## 🛠 Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,go,postgres,redis,mysql,docker,git,vscode,rabbitmq,nginx&perline=6" alt="Skills" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" style="height:30px; margin:5px;" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django" style="height:30px; margin:5px;" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" style="height:30px; margin:5px;" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go" style="height:30px; margin:5px;" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" style="height:30px; margin:5px;" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis" style="height:30px; margin:5px;" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" style="height:30px; margin:5px;" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" style="height:30px; margin:5px;" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" style="height:30px; margin:5px;" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code" style="height:30px; margin:5px;" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white" alt="RabbitMQ" style="height:30px; margin:5px;" />
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" alt="Nginx" style="height:30px; margin:5px;" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" style="height:30px; margin:5px;" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" style="height:30px; margin:5px;" />
 </p>
 
 - **Core Expertise**: Python, Django, Django REST Framework  
