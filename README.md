@@ -43,7 +43,7 @@ Currently, I’m working on scalable APIs, diving deeper into **FastAPI**, and d
 </p>
 
 - **Core Expertise**: Python, Django, Django REST Framework  
-- **Interests**: Microservices, AI, Automation  
+- **Interests**: Microservices, AI, ML, Deep Learning, Automation  
 - **Databases**: PostgreSQL, MySQL, Redis  
 - **DevOps**: Docker, Nginx, RabbitMQ  
 - **Tools**: Git, VS Code  
