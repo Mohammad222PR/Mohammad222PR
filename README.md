@@ -41,6 +41,7 @@ Currently, I’m working on scalable APIs, diving deeper into **FastAPI**, and d
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" style="height:30px; margin:5px;" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" style="height:30px; margin:5px;" />
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" style="height:30px; margin:5px;" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn" style="height:30px; margin:5px;" />
 </p>
 
 - **Core Expertise**: Python, Django, Django REST Framework  
